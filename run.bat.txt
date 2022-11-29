@@ -1,0 +1,6 @@
+
+
+cd C:\Users\Kai\Datascience\_ext\app
+
+
+streamlit run app.py
